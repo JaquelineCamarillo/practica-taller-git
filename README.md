@@ -6,3 +6,5 @@
 <img width="1482" height="1008" alt="Captura de pantalla 2026-05-28 182012" src="https://github.com/user-attachments/assets/4291f7c9-ad3c-4517-bbc0-a64db4148bb1" />
 <img width="1039" height="456" alt="Captura de pantalla 2026-05-28 184606" src="https://github.com/user-attachments/assets/241d2d3a-f8ea-4ceb-beb7-e2c9e5935c23" />
 <img width="1477" height="1007" alt="Captura de pantalla 2026-05-28 182523" src="https://github.com/user-attachments/assets/777a958d-b3e3-4fa9-9789-a08da7868335" />
+<img width="887" height="665" alt="Captura de pantalla 2026-05-28 185033" src="https://github.com/user-attachments/assets/626007c6-b31f-48be-9009-a7a4965ea70d" />
+<img width="1480" height="999" alt="Captura de pantalla 2026-05-28 185150" src="https://github.com/user-attachments/assets/bbc98f63-e11e-4c75-9efc-50549bef313c" />
